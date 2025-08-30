@@ -1,7 +1,6 @@
 [中文](README.md)
-# Be Innovative with AI!
 
-## The SPARK pattern for Effective Prompting
+# The SPARK pattern for Effective Prompting
 | Element                                 | Function                               | Description                                                            | Best Practices                                                                                                                                                                                                                                                                                                                                                                                                              |
 | --------------------------------------- | -------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **S - Situation（Context）**              | Provide background and context         | Establish problem space and context                                    | - No Instructions: Don’t write task instructions, just describe the background<br/>- Use {}: Use {paste complete background and concept} as a placeholder to let users dynamically fill in specific content and improve template reusability                                                                                                                                                                                |
@@ -10,8 +9,8 @@
 | **R - Rule（Task Rules）**                | Establish behavior and style standards | Ensure consistency, professionalism and practicality of output content | - Example: Give example to help AI understand<br/>- Specific Behavior: Clearly require “avoid vague statements, such as ‘please describe as clearly as possible’ → change to ‘each User Story must provide at least 3 scenarios’”, transforming abstract requirements into specific behavior instructions<br/>- Quality Requirement Description: If there are some quality requirements, you can add specific descriptions. |
 | **K - Knowledge Format（Output Format）** | Define output format                   | Help model maintain output consistency                                 | - Template: Specify sentence pattern templates                                                                                                                                                                                                                                                                                                                                                                              |
 
-## Example 1: Build User Stories based on a high level PRD
-### Prompt
+# Example 1: Build User Stories based on a high level PRD
+## Prompt
 ```
 # S - Situation（Context）
 ## We are developing a travel App that helps users:
@@ -70,10 +69,10 @@ so that...
 ## Output all the User Stories as plain text format in one block
 ```
 
-### Sample PRD document:
+## Sample PRD document:
+[PRD_Sample.docx](https://github.com/user-attachments/files/22057469/PRD_Sample.docx)
 
-### Possible outcome:
-
+## Possible outcome:
 ```
 Based on the PRD document you provided, here are the **User Stories** transformed in compliance with the **INVEST** principles:
 ---
@@ -142,8 +141,8 @@ so that I am motivated and excited to use it for planning my trips.
 
 ```
 
-## Example 2: Develop Acceptance Criterias for the above User Sotries
-### Prompt
+# Example 2: Develop Acceptance Criterias for the above User Sotries
+## Prompt
 ```
 #  S - Situation（Context）
 ## We need to develop Acceptance Criterias for the User Stories provided
@@ -193,9 +192,8 @@ And (additional verification points or state changes)
 ## Consolidate all User Stories and Acceptance Criterias, use plain text format and put them into one block
 ```
 
-### Copy Paste the User Sories from Example 1 into ChatGPT
-
-### Possible outcome:
+## Copy Paste the User Sories from Example 1 into ChatGPT
+## Possible outcome:
 
 ```
 Here are the **User Stories** and their corresponding **Acceptance Criteria** in plain text format, consolidated into one block:
