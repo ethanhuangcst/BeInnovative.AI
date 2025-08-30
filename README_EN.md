@@ -1,18 +1,18 @@
 **[中文](README.md)**
 
 **This website is maintained by Ethan Huang.**\
-Linkedin: [Ethan Huang](www.linkedin.com/in/ethancst)\
-email: [me@ethanhuang.com](mailto:me@ethanhuang.com)\
-Website: [oncadence.com](https://oncadence.com)
+**Linkedin: [Ethan Huang](www.linkedin.com/in/ethancst)**\
+**email: [me@ethanhuang.com](mailto:me@ethanhuang.com)**\
+**Website: [oncadence.com](https://oncadence.com)**\
 
 # The SPARK pattern for Effective Prompting
-|Element|Function|Description|Best Practices|
-| ------- | ------ | ------ |-------|
-|**S - Situation（Context）** |Provide background and context|Establish problem space and context| - No Instructions: Don’t write task instructions, just describe the background<br> - Use {}: Use {paste complete background and concept} as a placeholder to let users dynamically fill in specific content and improve template reusability|
-|**P - Purpose（Objective）**|Clarify task output objectives|Focus output content|- One task, one sentence: Summarize the task objective in one sentence<br> - Verb: Use verb-oriented instructions<br> - Key Requirements: Add key requirement descriptions (such as INVEST principles)<br>|
-|**A - Action Role（Role Assignment）** |Set professional roles |Simulate thinking patterns close to actual business needs| - Professional Role: Designate professional roles with task-related skills<br>- Domain: Emphasize the role’s areas of expertise|
-|**R - Rule（Task Rules）**| Establish behavior and style standards | Ensure consistency, professionalism and practicality of output content| - Example: Give examples to help AI understand<br> - Specific Behavior: Clearly require “avoid vague statements, such as ‘please describe as clearly as possible’ change to ‘each User Story must provide at least 3 scenarios’”, transforming abstract requirements into specific behavior instructions<br>|
-
+| Element | Function | Description | Best Practice |
+| --- | --- | --- | --- |
+| **S - Situation（情境 / Context）** | Provide background and context | Establish the problem space and context | • No instructions: Only describe background, not task instructions<br>• Use {}: Use {paste full background and concept} as a placeholder for dynamic filling to improve template reusability |
+| **P - Purpose（目的 / Objective）** | Clarify task output goals | Focus on output content | • Clear instructions: One instruction per sentence<br>• Verb-oriented: Use verbs to guide the instruction<br>• Key requirements: Add key requirement descriptions (e.g., INVEST principle) |
+| **A - Action Role（行动角色 / Role Assignment）** | Set professional role | Simulate thinking mode close to actual business needs | • Professional role: Specify roles with task-related skills<br>• Domain: Emphasize the professional domain of the role |
+| **R - Rule（规则 / Task Rules）** | Establish behavior and style standards | Ensure consistency, professionalism, and usability of outputs | • Example: Provide examples to help AI understand<br>• Specific behavior: Change “please describe as clearly as possible” to “must provide at least three scenarios”<br>• Quality requirements: Define quality standards if available |
+| **K - Knowledge Format（知识格式 / Output Format）** | Define output format | Help model maintain consistency and usability | • Template: Specify sentence/structure template |
 
 ## Example 1: Build User Stories based on a high level PRD
 ### Prompt
