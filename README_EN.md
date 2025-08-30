@@ -8,11 +8,12 @@
 # The SPARK pattern for Effective Prompting
 | Element | Functionality | Description | Best Practice |
 | --- | --- | --- | --- |
-| **S - Situation (Context)** | Provide background and context | Establish the problem space and context | <ul><li>No command here: don’t provide a task command at this stage</li><li>Use {}: Use {paste the complete background and problem statement} as a placeholder to improve template reusability</li></ul> |
-| **P - Purpose (Objective)** | Specify the task and the outcome | Focus on the outcome | <ul><li>Specific: One sentence per command</li><li>Verb-oriented: Use verbs to specify tasks</li><li>Key requirement: Add requirement descriptions and quality standards (e.g., INVEST principle)</li></ul> |
-| **A - Action Role (Role Assignment)** | Set the professional role | Simulate a thinking mode close to actual business needs | <ul><li>Professional role: Specify roles with task-related skills</li><li>Domain: Emphasize the professional domain of the role</li></ul> |
-| **R - Rule (Task Rules)** | Establish behavior and style standards | Ensure the output is consistent, professional, and usable | <ul><li>Specific behavior: Change from “Please describe as clearly as possible” to “Must provide at least three scenarios”</li><li>Quality requirements: Define quality standards if available</li></ul> |
-| **K - Knowledge Format (Output Format)** | Define outcome format | Help the model maintain consistency and usability | <ul><li>Template: Specify sentence/structure templates</li></ul> |
+| **S - Situation (Context)** | Provide background and context | Establish the problem space and context | No instructions: do not write task instructions, only describe the background; Use {}: use {paste the complete background and concept} as a placeholder to improve template reusability |
+| **P - Purpose (Objective)** | Specify the task and the outcome | Focus on the outcome | Specific: one sentence per instruction; Verb-oriented: use verbs to guide the instruction; Key requirements: add key requirement descriptions (e.g., INVEST principle) |
+| **A - Action Role (Role Assignment)** | Set the professional role | Simulate a thinking mode close to actual business needs | Professional role: specify roles with task-related skills; Domain: emphasize the professional domain of the role |
+| **R - Rule (Task Rules)** | Establish behavior and style standards | Ensure the output is consistent, professional, and usable | Example: provide examples to help AI understand; Specific behavior: change "Please describe as clearly as possible" to "Must provide at least three scenarios"; Quality requirements: define quality standards if available |
+| **K - Knowledge Format (Output Format)** | Define output format | Help the model maintain consistency and usability | Template: specify sentence/structure templates |
+
 
 
 ## Example 1: Build User Stories based on a high level PRD
