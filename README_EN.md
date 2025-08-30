@@ -6,14 +6,14 @@
 **Website: [oncadence.com](https://oncadence.com)**
 
 # The SPARK pattern for Effective Prompting
-| Element | Function | Description | Best Practice |
+| Element | Functionality | Description | Best Practice |
 | --- | --- | --- | --- |
-| **S - Situation (Context)** | Provide background and context | Establish the problem space and context | • No instructions: Do not write task instructions, only describe the background<br>• Use {}: Use {paste full background and concept} as a placeholder for dynamic filling, improving template reusability |
-| **P - Purpose (Objective)** | Clarify task output goals | Focus on output content | • Clear instructions: One instruction per sentence<br>• Verb-oriented: Use verb-driven instructions<br>• Key requirements: Add key requirement descriptions (e.g., INVEST principle) |
-| **A - Action Role (Role Assignment)** | Set professional role | Simulate a thinking mode close to actual business needs | • Professional role: Specify roles with task-related skills<br>• Domain: Emphasize the professional domain of the role |
-| **R - Rule (Task Rules)** | Establish behavior and style standards | Ensure consistency, professionalism, and usability of outputs | • Example: Provide examples to help AI understand<br>• Specific behavior: Change “Please describe as clearly as possible” to “Must provide at least three scenarios”<br>• Quality requirements: Define quality standards if available |
-| **K - Knowledge Format (Output Format)** | Define output format | Help the model maintain consistency and usability | • Template: Specify sentence/structure template |
-
+| **S - Situation Context）** | Provide Background and Contexgt| Establish the problem space and context | • No command here - don't provide command at this point<br>• Use {}：Use{paste the complete background and problem statement} as the place holder, make the template more re-useable|
+| **P - Purpose（Objective）** | Specify the task and the outcome | Focus in the outcome| • Specific - one sentence for one command<br>• Verb oriented - use verbs to specify the tasks<br>• Key requirement: Add specific requirement and quality standard (e.g., INVEST principle） |
+| **A - Action Role（Role Assignment）** | Set the professional role| Simulate a thinking mode close to actual business needs | • Professional role: Specify roles with task-related skills<br>• Domain: Emphasize the professional domain of the role|
+| **R - Rule（Task Rules）** | Establish behavior and style standards | Ensure the output is consistent, professional, and usable| • Specific behavior: Change from “Please describe as clearly as possible” to “Must provide at least three scenarios”<br>• Quality requirements: Define quality standards if available
+|
+| **K - Knowledge Format（Output Format）** | Define outcome format | Ensure the outcome is aligned with Scrum Alliance | •Template: the specific word scripts, or even from dead AIs. |
 
 ## Example 1: Build User Stories based on a high level PRD
 ### Prompt
