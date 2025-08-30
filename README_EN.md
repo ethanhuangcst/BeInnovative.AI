@@ -430,3 +430,11 @@ Then the app should display a message saying “The app is currently experiencin
 
 ---
 ```
+
+# Use Bolt.new (or other similar tools) to build the product in 5 minutes:
+## Open bolt.new
+## Copy and paste the User Stories and Acceptance Criterias to Bolt.new
+## Click "buld", wait for a few minutes
+## And verify the result from [TravelMate] (https://travelmate-comprehen-9aqi.bolt.host)
+## Give feedback to Bolt.new and change the feautres
+## Repeat
