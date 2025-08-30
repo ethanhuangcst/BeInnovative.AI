@@ -1,6 +1,7 @@
-This website is maintained by Ethan Huang.
-me@ethanhuang.com
-oncadence.com
+This website is maintained by Ethan Huang.\
+Linkedin: [Ethan Huang](www.linkedin.com/in/ethancst)\
+email: [me@ethanhuang.com](mailto:me@ethanhuang.com)\
+Website: [oncadence.com](https://oncadence.com)
 
 # The SPARK pattern for Effective Prompting
 | Element                                 | Function                               | Description                                                            | Best Practices                                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -9,7 +10,8 @@ oncadence.com
 | **P - Purpose（Objective）**              | Clarify task output objectives         | Focus output content                                                   | - One Sentence: Summarize the task objective in one sentence<br/>- Verb: Use verb-oriented instructions<br/>- Key Requirements: Add key requirement descriptions (such as INVEST principles)<br/>- One or Two Check Standards: Clearly require “each Story must contain at least V (Value) and T (Testable)” in the objective, directly integrating quality check standards into objective setting                          |
 | **A - Action Role（Role Assignment）**    | Set professional roles                 | Simulate thinking patterns close to actual business needs              | - Professional Role: Designate professional roles with task-related skills<br/>- Domain: Emphasize the role’s areas of expertise                                                                                                                                                                                                                                                                                            |
 | **R - Rule（Task Rules）**                | Establish behavior and style standards | Ensure consistency, professionalism and practicality of output content | - Example: Give example to help AI understand<br/>- Specific Behavior: Clearly require “avoid vague statements, such as ‘please describe as clearly as possible’ → change to ‘each User Story must provide at least 3 scenarios’”, transforming abstract requirements into specific behavior instructions<br/>- Quality Requirement Description: If there are some quality requirements, you can add specific descriptions. |
-| **K - Knowledge Format（Output Format）** | Define output format                   | Help model maintain output consistency                                 | - Template: Specify sentence pattern templates                                                                                                                                                                                                                                                                                                                                                                              |
+| **K - Knowledge Format（Output Format）** | Define output format                   | Help model maintain output consistency                                 | - Template: Specify sentence pattern templates|
+\
 
 ## Example 1: Build User Stories based on a high level PRD
 ### Prompt
