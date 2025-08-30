@@ -1,4 +1,6 @@
-[中文](README.md)
+This website is maintained by Ethan Huang.
+me@ethanhuang.com
+oncadence.com
 
 # The SPARK pattern for Effective Prompting
 | Element                                 | Function                               | Description                                                            | Best Practices                                                                                                                                                                                                                                                                                                                                                                                                              |
