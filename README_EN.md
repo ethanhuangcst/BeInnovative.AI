@@ -1,4 +1,4 @@
-**[中文](README.md)**\
+**[中文](README.md)**
 
 **This website is maintained by Ethan Huang.**\
 Linkedin: [Ethan Huang](www.linkedin.com/in/ethancst)\
@@ -12,7 +12,6 @@ Website: [oncadence.com](https://oncadence.com)
 |**P - Purpose（Objective）**|Clarify task output objectives|Focus output content|- One task, one sentence: Summarize the task objective in one sentence<br> - Verb: Use verb-oriented instructions<br> - Key Requirements: Add key requirement descriptions (such as INVEST principles)<br>|
 |**A - Action Role（Role Assignment）** |Set professional roles |Simulate thinking patterns close to actual business needs| - Professional Role: Designate professional roles with task-related skills<br>- Domain: Emphasize the role’s areas of expertise|
 |**R - Rule（Task Rules）**| Establish behavior and style standards | Ensure consistency, professionalism and practicality of output content| - Example: Give examples to help AI understand<br> - Specific Behavior: Clearly require “avoid vague statements, such as ‘please describe as clearly as possible’ change to ‘each User Story must provide at least 3 scenarios’”, transforming abstract requirements into specific behavior instructions<br>|
-| **K - Knowledge Format（Output Format）**| Define output format| Help model maintain output consistency| - Template: Specify sentence pattern templates|
 
 
 ## Example 1: Build User Stories based on a high level PRD
