@@ -1,3 +1,4 @@
+[English](README_EN.md)
 
 # Be Innovative with AI!
 ## 有效的提示词的SPARK范式
