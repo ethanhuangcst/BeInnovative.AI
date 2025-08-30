@@ -1,5 +1,4 @@
-
-[[English]](README_EN.md)
+[English](README_EN.md)
 
 本站由 Ethan Huang 维护\
 视频号：跟着Ethan学敏捷\
