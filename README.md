@@ -1,9 +1,9 @@
 [English](README_EN.md)
 
 本站由 Ethan Huang 维护\
-微信：ethanhf\
+视频号：跟着Ethan学敏捷\
 邮箱：me@ethanhuang.com\
-主站:   [oncadence.com](https://oncadence.com/cn)
+主站: [oncadence.com](https://oncadence.com/cn)
 
 # 有效的提示词的SPARK范式
 | 元素                                     | 功能                                   | 描述                                                                  | 最佳实践                                                                                                                                                                                                                                                                                                                                                                                                                     |
