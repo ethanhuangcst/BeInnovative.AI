@@ -1,4 +1,4 @@
-**[中文](README.md)**
+**[[中文]](README.md)**
 
 **This website is maintained by Ethan Huang.**\
 **Linkedin: [Ethan Huang](www.linkedin.com/in/ethancst)**\
