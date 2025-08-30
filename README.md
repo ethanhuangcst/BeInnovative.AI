@@ -1,7 +1,7 @@
-本站由 Ethan Huang 维护</br>
-微信： ethanhf</br>
-邮箱： me@ethanhuang.com</br>
-主站: oncadence.com/cn</br>
+本站由 Ethan Huang 维护\
+微信：ethanhf\
+邮箱：me@ethanhuang.com\
+主站:   [oncadence.com](https://oncadence.com/cn)
 
 # 有效的提示词的SPARK范式
 | 元素                                     | 功能                                   | 描述                                                                  | 最佳实践                                                       |
