@@ -1,9 +1,9 @@
 **[[English]](README_EN.md)**
 
 **本站由 Ethan Huang 维护**\
-**视频号：跟着Ethan学敏捷**\
-**邮箱：[me@ethanhuang.com](mailto:me@ethanhuang.com)**\
-<a href="https://oncadence.com/cn/" target="_blank"><b>主站”</b></a>
+**视频号: 跟着Ethan学敏捷**\
+**邮箱: [me@ethanhuang.com](mailto:me@ethanhuang.com)**\
+**主站:** <a href="https://oncadence.com/cn" target="_blank"> <font color = blue><u><b>https://oncadence.com</b></u></font></a>
 
 # 不懂编程，没有团队，单人30分钟做出这样的产品只需要5步！
 <a href="https://beinnovative.vercel.app/" target="_blank"><font size = 24><b>点击试用“旅行助手”</b></font></a>
