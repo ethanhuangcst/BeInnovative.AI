@@ -2,7 +2,7 @@
 
 **本站由 Ethan Huang 维护**\
 **视频号: 跟着Ethan学敏捷**\
-**邮箱:** <a href="mailto:me@ethanhuang.com" target="_blank"> <font color = blue><u><b>me@ethanhuang.com</b></u></font></a>
+**邮箱:** <a href="mailto:me@ethanhuang.com" target="_blank"> <font color = blue><u><b>me@ethanhuang.com</b></u></font></a>\
 **主站:** <a href="https://oncadence.com/cn" target="_blank"> <font color = blue><u><b>https://oncadence.com</b></u></font></a>
 
 # 不懂编程，没有团队，做出这样的产品只要30分钟！
