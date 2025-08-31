@@ -3,10 +3,10 @@
 **本站由 Ethan Huang 维护**\
 **视频号：跟着Ethan学敏捷**\
 **邮箱：[me@ethanhuang.com](mailto:me@ethanhuang.com)**\
-**主站: [oncadence.com](https://oncadence.com/cn)**
+<a href="https://oncadence.com/cn/" target="_blank"><b>主站”</b></a>
 
 # 不懂编程，没有团队，单人30分钟做出这样的产品只需要5步！
-<a href="https://beinnovative.vercel.app/" target="_blank"><font size = 28><b>点击试用“旅行助手”</b></font></a>
+<a href="https://beinnovative.vercel.app/" target="_blank"><font size = 24><b>点击试用“旅行助手”</b></font></a>
 
 <img width="600" height="495" alt="travelbuddy" src="https://github.com/user-attachments/assets/94ad8338-8d05-4583-b1a5-f8d43bee4965" />
 
