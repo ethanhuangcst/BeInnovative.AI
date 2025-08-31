@@ -6,7 +6,7 @@
 **主站: [oncadence.com](https://oncadence.com/cn)**
 
 # 不懂编程，没有团队，单人30分钟做出这样的产品只需要5步！
-<a href="https://binnovative.vercel.app/" target="_blank"><font size = 28><b>点击试用“旅行助手”</b></font></a>
+<a href="https://binnovative.vercel.app/" target="_blank"><font size = 22.8><b>点击试用“旅行助手”</b></font></a>
 
 <img width="600" alt="site" src="https://github.com/user-attachments/assets/5a6e1183-bef3-435d-8560-5487a55d1cde" />
 <br>
@@ -21,7 +21,7 @@
 把[自然语言转用户故事提示词](#自然语言转用户故事提示词)提交给AI，然后上传第二步你写的需求文档，提交后AI帮你写专业的用户故事
 
 ## 第四步
-把[根据用户故事写AC提示词](#基于用户故事写AC提示词)提交给AI，然后黏贴第三步你写的用户故事，提交后AI帮你写专业的验收条件
+把[基于用户故事写AC提示词](#基于用户故事写AC提示词)提交给AI，然后黏贴第三步你写的用户故事，提交后AI帮你写专业的验收条件
 
 ## 第五步
 打开 <a href="https://v0.dev" target="_blank"><b>v0.dev</b></a>, 在第一个界面把第四步生成的用户故事和验收条件整个黏贴复br制进去，提交后去倒杯茶，五分钟左右你的产品就做好啦！
