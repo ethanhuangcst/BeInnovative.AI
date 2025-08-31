@@ -376,7 +376,7 @@ Then 应用应提示
 - 使用Chrome浏览器，打开 <a href="https://v0.dev" target="_blank"><b>v0.dev</b></a>,如果没有账户，那么注册一个免费账户
 - 在第一个界面的对话框，把第四步生成的用户故事和验收条件整个黏贴复制进去
 <img width="600" alt="v0" src="https://github.com/user-attachments/assets/5b84a850-2a25-4f84-8418-1bfe7f8e6040" />
-- 提交后去倒杯茶，五分钟左右你的产品就做好啦！
+- 提交后去倒杯茶，十分钟左右你的产品就做好啦！
 
 
 
