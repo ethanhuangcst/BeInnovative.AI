@@ -3,7 +3,8 @@
 **This website is maintained by Ethan Huang.**\
 **Linkedin: [Ethan Huang](www.linkedin.com/in/ethancst)**\
 **email: [me@ethanhuang.com](mailto:me@ethanhuang.com)**\
-**Website: [oncadence.com](https://oncadence.com)**
+**Website:** <a href="https://oncadence.com" target="_blank"> <font color = blue><u><b>https://oncadence.com</b></u></font></a>
+
 
 # The SPARK pattern for Effective Prompting
 
