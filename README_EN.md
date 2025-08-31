@@ -6,14 +6,14 @@
 **Website: [oncadence.com](https://oncadence.com)**
 
 # The SPARK pattern for Effective Prompting
+
 | Element | Functionality | Description | Best Practice |
 | --- | --- | --- | --- |
-| **S - Situation (Context)** | Provide background and context | Establish the problem space and context | No instructions: do not write task instructions, only describe the background; Use {}: use {paste the complete background and concept} as a placeholder to improve template reusability |
-| **P - Purpose (Objective)** | Specify the task and the outcome | Focus on the outcome | Specific: one sentence per instruction; Verb-oriented: use verbs to guide the instruction; Key requirements: add key requirement descriptions (e.g., INVEST principle) |
-| **A - Action Role (Role Assignment)** | Set the professional role | Simulate a thinking mode close to actual business needs | Professional role: specify roles with task-related skills; Domain: emphasize the professional domain of the role |
-| **R - Rule (Task Rules)** | Establish behavior and style standards | Ensure the output is consistent, professional, and usable | Example: provide examples to help AI understand; Specific behavior: change "Please describe as clearly as possible" to "Must provide at least three scenarios"; Quality requirements: define quality standards if available |
-| **K - Knowledge Format (Output Format)** | Define output format | Help the model maintain consistency and usability | Template: specify sentence/structure templates |
-
+| **S - Situation (Context)** | Provide background and context | Establish the problem space and context | No instructions: do not write task instructions, only describe the background. Use {} as a placeholder to improve template reusability. |
+| **P - Purpose (Objective)** | Specify the task and the outcome | Focus on the outcome | Specific: one sentence per instruction. Verb-oriented: use verbs to guide the instruction. Key requirements: add key requirement descriptions (e.g., INVEST principle). |
+| **A - Action Role (Role Assignment)** | Set the professional role | Simulate a thinking mode close to actual business needs | Professional role: specify roles with task-related skills. Domain: emphasize the professional domain of the role. |
+| **R - Rule (Task Rules)** | Establish behavior and style standards | Ensure the output is consistent, professional, and usable | Example: provide examples to help AI understand. Specific behavior: change "Please describe as clearly as possible" to "Must provide at least three scenarios." Quality requirements: define quality standards if available. |
+| **K - Knowledge Format (Output Format)** | Define output format | Help the model maintain consistency and usability | Template: specify sentence and structure templates. |
 
 
 ## Example 1: Build User Stories based on a high level PRD
