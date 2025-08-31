@@ -5,8 +5,29 @@
 **邮箱：[me@ethanhuang.com](mailto:me@ethanhuang.com)**\
 **主站: [oncadence.com](https://oncadence.com/cn)**
 
-# 驾驭AI必备 - 有效的提示词的SPARK范式
+# 不懂编程，没有团队，单人30分钟做出这样的产品只需要5步！
+<a href="https://binnovative.vercel.app/" target="_blank"><font size = 28><b>点击试用“旅行助手”</b></font></a>
 
+<img width="768" alt="site" src="https://github.com/user-attachments/assets/5a6e1183-bef3-435d-8560-5487a55d1cde" />
+<br>
+
+## 第一步：用你习惯的语言方式，把你的产品需求记录下来，类似这样：[PRD示例文件](https://github.com/user-attachments/files/22057374/PRD_Sample_CHN.docx)
+
+## 第二步：学习一下[SPARK范式](#spark范式说明)，然后打开ChatGPT/DeepSeek
+
+## 第三步：把[示例1提示词](#示例1-把自然语言转成用户故事)提交给AI，然后上传第二步你写的需求文档，提交后AI帮你写专业的用户故事
+
+## 第四步：把[示例2提示词](#示例2-为用户故事编写验收条件-acceptance-criteria)提交给AI，然后黏贴第三部你写的用户故事，提交后AI帮你写专业的验收条件
+
+## 第五步：打开 <a href="https://v0.dev" target="_blank"><b>v0.dev</b></a>, 在第一个界面把第四步生成的用户故事和验收条件整个黏贴复br制进去，提交后去倒杯茶，五分钟左右你的产品就做好啦！
+
+
+<br>
+<br>
+
+
+## 驾驭AI必备 - 有效的提示词的SPARK范式
+## SPARK范式说明
 | 元素 | 功能 | 描述 | 最佳实践 |
 | --- | --- | --- | --- |
 | **S - Situation 情境（Context）** | 提供背景和情境 | 建立问题空间和情境 | • 无指令：不要写任务指令，只描述背景<br>• 使用 {}：用 {粘贴完整的背景和概念} 作为占位符，让用户动态填写，提高模板可复用性 |
@@ -15,9 +36,9 @@
 | **R - Rule 规则（Task Rules）** | 建立行为和风格标准 | 确保输出内容一致、专业、可用 | • 示例：给出示例帮助 AI 理解<br>• 特定行为：将“请尽可能清楚描述”改为“必须提供至少三个场景”<br>• 质量要求：如有质量标准，明确说明 |
 | **K - Knowledge Format 知识格式（Output Format）** | 定义输出格式 | 帮助模型保持输出一致性 | • 模板：指定句式/结构模板 |
 
-\
 
-## 示例1: 基于很粗的产品需求文档构建用户故事
+
+## 示例1-把自然语言转成用户故事
 ### 提示词：
 ```
 # S - Situation 情境（Context）
@@ -82,7 +103,7 @@
 
 ```
 ### PRD文件示例：
-[PRD_Sample_CHN.docx](https://github.com/user-attachments/files/22057374/PRD_Sample_CHN.docx)
+[PRD示例文件](https://github.com/user-attachments/files/22057374/PRD_Sample_CHN.docx)
 
 
 ### ChatGPT可能的输出：
@@ -151,7 +172,7 @@
 ---
 ```
 
-## 示例2: 为用户故事编写Acceptance Criteria（验收条件）
+## 示例2-为用户故事编写验收条件 Acceptance Criteria
 ### 提示词：
 ```
 # S - Situation 情境（Context）
