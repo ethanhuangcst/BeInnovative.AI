@@ -2,11 +2,11 @@
 
 **本站由 Ethan Huang 维护**\
 **视频号: 跟着Ethan学敏捷**\
-**邮箱: [me@ethanhuang.com](mailto:me@ethanhuang.com)**\
+**邮箱:** <a href="mailto:me@ethanhuang.com" target="_blank"> <font color = blue><u><b>me@ethanhuang.com</b></u></font></a>
 **主站:** <a href="https://oncadence.com/cn" target="_blank"> <font color = blue><u><b>https://oncadence.com</b></u></font></a>
 
 # 不懂编程，没有团队，做出这样的产品只要30分钟！
-<a href="https://beinnovative.vercel.app/" target="_blank"><font color=blue size=6><b><u>点击体验“旅行助手”</u></b></font></a>
+<a href="https://beinnovative.vercel.app/" target="_blank"><font color=blue size=5><b><u>点击体验“旅行助手”</u></b></font></a>
 
 <img width="600" height="495" alt="travelbuddy" src="https://github.com/user-attachments/assets/94ad8338-8d05-4583-b1a5-f8d43bee4965" />
 
