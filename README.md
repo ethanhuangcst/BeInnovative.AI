@@ -6,7 +6,7 @@
 **主站: [oncadence.com](https://oncadence.com/cn)**
 
 # 不懂编程，没有团队，单人30分钟做出这样的产品只需要5步！
-<a href="https://binnovative.vercel.app/" target="_blank"><font size = 22.8><b>点击试用“旅行助手”</b></font></a>
+<a href="https://binnovative.vercel.app/" target="_blank"><font size = 28><b>点击试用“旅行助手”</b></font></a>
 
 <img width="600" alt="site" src="https://github.com/user-attachments/assets/5a6e1183-bef3-435d-8560-5487a55d1cde" />
 <br>
